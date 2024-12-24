@@ -9,6 +9,7 @@ public class second {
     System.out.println(s.a); 
     System.out.println(b);
     System.out.println(c);
+    System.out.println(s.a+" "+b+" "+c);
   }
 }
 
@@ -17,3 +18,4 @@ public class second {
 20
 20.5
 true
+20 20.5 true
